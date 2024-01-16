@@ -1,0 +1,24 @@
+/* Vilja lisamise leht */
+
+body {
+    background-color: #d9d9d9;
+}
+
+.container {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+form input[type="text"],
+form input[type="number"] {
+    padding: 10px;
+    margin: 8px 0;
+    width: 100%;
+}
